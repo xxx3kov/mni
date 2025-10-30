@@ -10,7 +10,6 @@ Hello world! Я Александр
 * **Местоположение:** _неопределено_
     
 * **Контакты:** 
- * Email: your.email@example.com
   * GitHub: xxx3kov
   * TG: @alexxx3kov
 
