@@ -50,7 +50,6 @@
 Буду рад профессиональным знакомствам, обмену опытом в управлении или совместным Python-проектам!
 
 [![Telegram](https://img.shields.io)](https://t.me/alexxx3kov)
-[![GitHub](https://img.shields.io)](https://github.com)
 
 <p align="right">
   <img src="https://komarev.com" alt="xxx3kov" />
