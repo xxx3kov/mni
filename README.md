@@ -8,9 +8,10 @@
 *   💼 **Роль:** Team Lead / Python Enthusiast
 *   🚗 **Интересы:** Развитие российского автопрома (**Lada**), спорт и здоровый образ жизни.
 
-* **Контакты:** 
-  * GitHub: xxx3kov
-  * TG: @alexxx3kov
+### 🤝 Давай общаться! / Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-alexxx3kov-0088CC?logo=telegram)](https://t.me/alexxx3kov)
+[![GitHub](https://img.shields.io/badge/github-xxx3kov-blue?logo=github)](https://github.com/xxx3kov)
 ---
 
 ### Навыки и стек 🛠
